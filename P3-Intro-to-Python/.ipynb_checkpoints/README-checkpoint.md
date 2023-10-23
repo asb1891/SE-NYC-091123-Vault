@@ -25,7 +25,7 @@ In order to set you up for success for Phase 3, there are required and optional 
 - [Content Notebook #0: Python Fundamentals for JavaScript Developers](./content-notebooks/00-Python-Fundamentals.ipynb)
 - [SQLBolt Interactive Exercises](https://sqlbolt.com/)
   - **NOTE**: You are only required to complete the first seven (7) lessons of SQLBolt's materials.
-    - **ADDITIONAL NOTE**: Doing more won't hurt!
+    - **ADDITIONAL NOTE**: Doing more won't hurt! 
 
 ### Additional (Highly Recommended) Materials:
 - [Exercism: Python Challenges](https://exercism.org/tracks/python)
